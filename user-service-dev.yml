@@ -5,3 +5,4 @@ spring:
     enabled: false
 app:
   welcomeMsg: Hello from client config application
+  key: d3a9d6d9343b542d81a7e9d7caf110251e56c9299d5906f22f17aefbbe4822ac
